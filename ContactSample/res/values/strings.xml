@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactSample</string>
+    <string name="action_about">About</string>
+    <string name="action_add">Add</string>
+	<string name="alert_dialog_about_title">About</string>
+    <string name="alert_dialog_about_message">Author: Justin</string>
+	<string name="btn_ok">OK</string>
+	<string name="name">Name</string>
+	<string name="addr">Address</string>
+	<string name="tel">Telephone</string>
+	<string name="btn_save">Save</string>
+	<string name="activity_add_name">Add Contact</string>
+	<string name="activity_view_name">View Contact</string>
+	<string name="toast_add_success">Add Success</string>
+	<string name="toast_delete_success">Delete Success</string>
+	<string name="btn_delete">Delete</string>
+    
+</resources>

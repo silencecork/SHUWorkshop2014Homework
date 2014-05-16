@@ -12,6 +12,8 @@ public class AddActivity extends Activity implements OnClickListener {
 
     private SQLiteDatabase mDatabase;
     
+    
+    // This is app start~~
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

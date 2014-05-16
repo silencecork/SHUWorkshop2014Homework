@@ -21,6 +21,10 @@ public class AddActivity extends Activity implements OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.add);
         
+        mProgressDialog = new ProgressDialog(this);
+        mProgressDialog.setMessage("Wait...");
+        mProgressDialog.setCancelable(false);
+        
         initDatabase();
         
         Button saveButton = (Button) findViewById(R.id.btn_save);

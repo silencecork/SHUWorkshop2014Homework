@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">聯絡人範例</string>
+    <string name="action_about">關於</string>
+    <string name="action_add">加入</string>
+	<string name="alert_dialog_about_title">關於</string>
+    <string name="alert_dialog_about_message">作者：Justin</string>
+	<string name="btn_ok">確定</string>
+	<string name="name">名稱</string>
+	<string name="addr">地址</string>
+	<string name="tel">電話</string>
+	<string name="btn_save">儲存</string>
+	<string name="activity_add_name">儲存聯絡人</string>
+	<string name="activity_view_name">觀看聯絡人</string>
+	<string name="toast_add_success">加入成功</string>
+	<string name="toast_delete_success">刪除成功</string>
+	<string name="btn_delete">刪除聯絡人</string>
+    
+</resources>
